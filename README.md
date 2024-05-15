@@ -2,6 +2,8 @@
 
 **ImageFleet** is a dynamic media gallery application built using Flask and JavaScript, designed to serve, display, and manage images and videos efficiently. The application features responsive masonry layouts for media files, supports lazy loading, and provides an enhanced interactive user experience with modal image viewing and on-demand video playback.
 
+![ImageFleet Example](https://i.imgur.com/T6xtojL.png "Example Image")
+
 ## **Features**
 
 ### **Dynamic Media Gallery**
